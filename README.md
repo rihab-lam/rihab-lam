@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rihab! 
 
 ### 🚀 Mathematically-Trained Engineer | Quantitative Finance & ML
-I am bridging the gap between rigorous theoretical foundations and practical financial technology. Currently specializing in **Digital Engineering for Finance** with a background in **Classes Préparatoires (MPSI/MP)**.
+I am bridging the gap between rigorous theoretical foundations and practical financial technology. Currently specializing in **Data & financial engineering** with a background in **Classes Préparatoires (MPSI/MP)**.
 
 ---
 

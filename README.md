@@ -43,7 +43,7 @@ I am bridging the gap between rigorous theoretical foundations and practical fin
 
 | My Stats | Top Languages |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=rihab-lam&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rihab-lam&layout=compact&theme=radical) |
 
 ---
 

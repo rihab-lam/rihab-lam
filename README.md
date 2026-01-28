@@ -1,15 +1,58 @@
+# Hi 👋, I'm Rihab! 
 
-<h1 align="center">Hi 👋, I'm Rihab</h1>
-<h3 align="center">Passionate about quantitative finance and machine learning applied to financial markets and modeling</h3>
+### 🚀 Mathematically-Trained Engineer | Quantitative Finance & ML
+I am bridging the gap between rigorous theoretical foundations and practical financial technology. Currently specializing in **Digital Engineering for Finance** with a background in **Classes Préparatoires (MPSI/MP)**.
 
-- 📫 How to reach me **rihablamtalak@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rihab lamtalak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rihab lamtalak" height="30" width="40" /></a>
-</p>
+## 🎓 Academic Foundation
+* **Background:** MPSI/MP (Classes Préparatoires) – Focused on advanced Mathematics, Physics, and Logic.
+* **Current Program:** 1st Year Data & financial engineering.
+* **Key Coursework:** * **Mathematics:** Convex Analysis & Optimization, Numerical Methods, Graph Theory, and Applied Statistics.
+    * **Computing:** Data Structures & Algorithms (C), Computer Architecture, and Database Systems (SQL).
+    * **Finance:** Digital Economy and Management.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rihab-lam&show_icons=true&locale=en&layout=compact" alt="rihab-lam" /></p>
+## 📚 Continuous Learning & Specialization
+*I am actively translating my mathematical rigor into the world of Data Science and Finance:*
+
+* 🐍 **Python for Finance:** Self-studying algorithmic trading and financial modeling.
+* 🤖 **Machine Learning:** Currently completing the **Supervised Machine Learning** specialization (Coursera).
+* 💻 **Core Programming:** Completed the **Python for Everybody** specialization to build robust software foundations.
+
+---
+
+## 🛠 Technical Stack
+
+### **Data & Quant**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Mathematical Modeling**
+* **Optimization:** Solving convex problems for efficient asset allocation.
+* **Statistics:** Applying descriptive and inferential statistics to market data.
+* **Stochastic Theory:** Modeling financial time-series through probabilistic lenses.
+
+---
+
+## 📊 GitHub Analytics
+*My journey in code, updated in real-time:*
+
+| My Stats | Top Languages |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical) |
+
+---
+
+## 📫 Connect with me:
+
+* 📧 **Email:** [rihablamtalak@gmail.com](mailto:rihablamtalak@gmail.com)
+* 💼 **LinkedIn:** [Rihab Lamtalak](https://linkedin.com/in/www.linkedin.com/in/rihab-lamtalak-65b507378-url)
+
+---
+
+### 📈 Current Objective
+> " My goal is to build models that are as mathematically sound as they are computationally efficient."

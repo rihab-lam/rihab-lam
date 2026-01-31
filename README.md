@@ -18,8 +18,8 @@ I am bridging the gap between rigorous theoretical foundations and practical fin
 *I am actively translating my mathematical rigor into the world of Data Science and Finance:*
 
 * 🐍 **Python for Finance:** Self-studying algorithmic trading and financial modeling.
-* 🤖 **Machine Learning:** Currently completing the **Supervised Machine Learning** specialization (Coursera).
-* 💻 **Core Programming:** Completed the **Python for Everybody** specialization to build robust software foundations.
+* 🤖 **Machine Learning:**  Completed the **Supervised Machine Learning** specialization (Coursera).
+* 💻 **Core Programming:**  Currently completing  the **Python for Everybody** specialization to build robust software foundations.
 
 ---
 
